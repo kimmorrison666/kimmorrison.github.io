@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Kimberly Morrison",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "email": "kimberly.morrison@student.chaminade.edu",
+    "phone": "631-335-9453",
+    "website": "https://kimmorrison666.github.io",
+    "summary": "I am studying for a minor in Data Science in the Department of Data Sciences at Chaminade University of Hawaii. I expect to graduate in Spring, 2023.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
+      "address": "1224 Wilhemina Rise",
+      "postalCode": "96816",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,8 +17,8 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "kimmorrison666",
+        "url": "http://kimmorrison666.com/changeme"
       },
       {
         "network": "linkedin",
@@ -32,7 +32,7 @@
       },
       {
         "network": "instagram",
-        "username": "molly",
+        "username": "kimberly_morrison",
         "url": "http://instagram.com/changeme"
       }
     ]
